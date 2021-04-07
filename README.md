@@ -1,4 +1,4 @@
-# Hello_World
+# How to Git
 How to Git
 
 Each Repository has a Main Branch, which is, well, the main one.
